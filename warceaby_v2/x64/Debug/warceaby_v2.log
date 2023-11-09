@@ -1,0 +1,6 @@
+﻿  plansza.cpp
+C:\Users\pietr\Documents\studia\programowanie 2\powtorka w wakacje\warceaby_v2\warceaby_v2\plansza.cpp(310,48): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  prog.cpp
+C:\Users\pietr\Documents\studia\programowanie 2\powtorka w wakacje\warceaby_v2\warceaby_v2\prog.cpp(89,24): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  warceaby_v2.vcxproj -> C:\Users\pietr\Documents\studia\programowanie 2\powtorka w wakacje\warceaby_v2\x64\Debug\warceaby_v2.exe
